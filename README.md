@@ -1,14 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sumit+Sartale;Data+Scientist+%7C+AI+Engineer;4%2B+Years+of+Experience;Building+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1200&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ayushi+Gajbhiye;Python+Developer;Aspiring+Data+Scientist;Learning+Machine+Learning+%26+Generative+AI;Building+Projects+Every+Day;Future+AI+Engineer+🚀" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Senior Data Scientist & AI Agents Engineer | Hyderabad, India</h3>
+<h3 align="center">
+🎓 Full Stack Data Science Student | 🐍 Python Developer | 🤖 AI Enthusiast | Hyderabad, 🇮🇳 India
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumitsartale4952&label=Profile%20views&color=0e75b6&style=flat" alt="sumitsartale4952" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=flat" />
-  <img src="https://img.shields.io/badge/Focus-AI%20Agents%20%26%20LLMs-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=flat" />
+<img src="[https://canva.link/mbd1m84lhyfyqlc]">
 </p>
 
 <img align="right" alt="AI coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
@@ -17,19 +16,25 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **4+ years** of experience in **Data Science, Machine Learning & AI Agents**
-- 🤖 Specialized in building **Autonomous AI Agents** using LangChain, LangGraph & CrewAI
-- 🧠 Working with **LLMs** (GPT-4, Claude, Gemini) for production-grade applications
-- 🌱 Currently deepening expertise in **Agentic AI**, **RAG Pipelines** & **Django REST APIs**
-- 🏆 Experienced in **end-to-end ML pipelines** — from EDA to deployment
-- ☁️ Hands-on with **Azure ML**, cloud deployments & scalable data architecture
-- 📊 Passionate about turning raw data into **actionable business insights**
-- 📫 Reach me at: **ssartale6@gmail.com**
+- 🔭 **Experience in **Data Science, Machine Learning & Generative AI**
+- 🌱 Currently learning
+      - Python
+      - SQL
+      - Machine Learning
+      - Deep Learning
+      - Generative AI
+- 📚 Always exploring new technologies.
+- 💻 Love solving Python problems
+- 📊 Interested in Data Analytics
+- 🚀 Building projects every week
+- 📚 Always learning something new
+- 🤖 Passionate about AI and turning raw data into **actionable business insights**
+- 🎯 Goal: Become a Data Scientist at a top tech company
+- 📫 Reach me at: **ayushi2992004@gmail.com**
 - 📍 Based in **Hyderabad, India**
 
 ---
 
-## 🤖 AI & LLM Expertise
 
 ```python
 ai_stack = {
@@ -75,32 +80,34 @@ ai_stack = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitsartale4952&show_icons=true&theme=tokyonight&locale=en" alt="Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumitsartale4952&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushi2992004-lgtm&show_icons=true&theme=tokyonight&locale=en" alt="Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi2992004-lgtm&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsartale4952&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushi2992004-lgtm&theme=tokyonight" alt="Streak Stats"/>
 </p>
 
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 GitHub Trophies
 
-| 🔥 Project | 📝 Description | 🛠️ Tech |
-|---|---|---|
-| **AI Research Agent** | Multi-agent system that autonomously researches, summarizes & reports on any topic | LangGraph, GPT-4o, FAISS |
-| **Predictive Analytics Dashboard** | End-to-end ML pipeline with real-time predictions & interactive BI dashboard | Scikit-learn, Streamlit, Azure |
-| **RAG-Powered Chatbot** | Production RAG chatbot over enterprise documents with hybrid search | LangChain, Pinecone, Django |
-| **CV Object Detection Pipeline** | Real-time object detection & tracking system for industrial use | OpenCV, TensorFlow, YOLO |
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayushi2992004-lgtm&theme=algolia&margin-w=10&margin-h=10">
+
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitsartale4952&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushi2992004-lgtm&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+</p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ayushi2992004-lgtm&label=Profile%20Views&color=0e75b6&style=flat">
 </p>
 
 ---
@@ -108,13 +115,10 @@ ai_stack = {
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sumit-sunil-sartale-469791232/" target="_blank">
+  <a href="https://www.linkedin.com/in/Ayushi-Gajbhiye/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.kaggle.com/sunnysartale" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-  <a href="mailto:ssartale6@gmail.com">
+  <a href="mailto:ayushi2992004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ayushi2992004-lgtm" target="_blank">
@@ -127,9 +131,13 @@ ai_stack = {
 
 <p align="center">
   <i>"Data is the new oil, but AI Agents are the refinery."</i><br/>
-  <b>— Sumit Sartale</b>
+  <b>— Ayushi Gajbhiye</b>
 </p>
+## ⚡ Fun Fact
 
+I enjoy turning ideas into real projects using Python and AI.
+
+Every project teaches me something new.
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:7B2FF7&height=120&section=footer"/>
 </p>
