@@ -1,6 +1,7 @@
 <h1 align="center">
-      <img align="right" alt="Female Developer" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-font=Fira+Code&size=32&duration=3500&pause=1200&color=00C4FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ayushi+Gajbhiye;Python+Developer;Aspiring+Data+Scientist;Learning+Machine+Learning+%26+Generative+AI;Building+Projects+Every+Day;Future+AI+Engineer+🚀" alt="Typing SVG" />
+  <img align="right" alt="Female Developer" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1200&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Ayushi+Gajbhiye;Python+Developer;Aspiring+Data+Scientist;Learning+Machine+Learning+%26+Generative+AI;Building+Projects+Every+Day;Future+AI+Engineer+🚀" alt="Typing SVG"/>
 </h1>
 
 <h3 align="center">
