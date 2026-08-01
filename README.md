@@ -7,9 +7,12 @@
 </h3>
 
 <p align="center">
-  <img src="ai-girl-coding.gif" width="800" alt="AI Girl Coding GIF">
+  <img
+    src="https://content://media/external/downloads/1000211473"
+    alt="Professional AI Girl Coding"
+    width="800"
+  />
 </p>
-
 <img align="right" alt="Girl Developer" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 ---
 
