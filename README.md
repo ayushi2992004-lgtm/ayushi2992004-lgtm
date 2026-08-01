@@ -10,7 +10,7 @@
 <img src="[https://canva.link/mbd1m84lhyfyqlc]">
 </p>
 
-<img align="right" alt="Girl Coding" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<img align="right" alt="Coding Girl" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 ---
 
 ## 👨‍💻 About Me
