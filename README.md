@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-<img src="[https://canva.link/mbd1m84lhyfyqlc]">
+  <img src="ai-girl-coding.gif" width="800" alt="AI Girl Coding GIF">
 </p>
 
 <img align="right" alt="Girl Developer" width="380" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
